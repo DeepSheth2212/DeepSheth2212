@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deep Sheth</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Book shop Website**
+- 🔭 I’m currently working at **Tatvasoft** as **Associate software engineer**
 
-- 🌱 I’m currently learning **React, Jetpack Compose, Android**
+- 🌱 I’m currently learning **Angular, ASP.NET, Node**
 
-- 💬 Ask me about **Android, Java, Kotlin**
+- 💬 Ask me about **Angular, ASP.NET**
 
 - 📫 How to reach me **shethdeep22@gmail.com**
 
